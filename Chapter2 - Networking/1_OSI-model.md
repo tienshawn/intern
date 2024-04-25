@@ -1,9 +1,8 @@
 ### General concept:
 - OSI stands for Open System Interconnection.
-- It is a 7-layer architecture, and each layer performs a specific funtionality.
+- It is a 7-layer architecture, and each layer performs a specific functionality.
 - Developed by ISO - 'International Organization for Standardization', in the year 1984.
 - Acts as a reference framework that explains the process of transmitting data between computers.
-
 
 
 ### Consists of 7 layers, including:
@@ -17,10 +16,7 @@
 
 
 ### 
-<a name="1"></a>
 # 1. Physical Layer
-
-<a name="2"></a>
 # 2. Datalink Layer
 # 3. Network Layer
 # 4. Transport Layer
