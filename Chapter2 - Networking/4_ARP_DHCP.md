@@ -2,7 +2,6 @@
 
 ## Table of contents
 
-
 ## ARP Protocol:
 ### Basic Concepts:
 - ARP is Address Resolution Protocol
