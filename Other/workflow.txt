@@ -1,0 +1,3 @@
+- Finish ARP, NAT
+- Halfway: VLAN, DHCP
+- Nothing: TCP-UDP, DNS-SSH
